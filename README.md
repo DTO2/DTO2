@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DTO2
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Front-end Development
-- 💞️ I’m looking to collaborate on a few websites that i'm interested in making
+- 👀 Found a new love with Python and Data Science
+- 🌱 I’m learning Full Stack with IT Switch
+- 💞️ Love learning and helping people with their projects and creating new projects with like-minded people
 - 📫 How to reach me daniel_to_2@hotmail.com
 
 <!---
