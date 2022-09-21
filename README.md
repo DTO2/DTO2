@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Daniel To @DTO2
-- 💪 Personal Trainer 
-- 👨‍💻 Trying to learn how to build a website to provide personal training services online and market my in-person business
+- 👋 Hi, I’m Daniel To @DTO2 
+- 👨‍💻 Learning Code
 - 📈 Would love to link with like-minded people to finish meaningful projects that make a difference
 - 📫 How to reach me daniel_to_2@hotmail.com or mail@danieltofitness.com
