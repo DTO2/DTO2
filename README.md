@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Daniel To @DTO2 
 - 👨‍💻 Learning Code
-- 📈 Would love to link with like-minded people to finish meaningful projects that make a difference
-- 📫 How to reach me daniel_to_2@hotmail.com or mail@danieltofitness.com
+- 📫 How to reach me daniel_to_2@hotmail.com
