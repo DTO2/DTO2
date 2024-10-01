@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Daniel To @DTO2 
-- 👨‍💻 Building Projects and Learning Code
 - 📫 How to reach me daniel_to_2@hotmail.com
